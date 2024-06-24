@@ -1,0 +1,57 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #7BDAF3;
+}
+
+header{
+    margin: 10px;
+    text-align: right;
+}
+header button{
+    background-color: #9EC862;
+    border: 0;
+    color: #FFFFFF;
+
+
+    font-size: 20px;
+    width: 125px;
+    height: 50px;
+    cursor: pointer;
+}
+.text{
+    margin: 10px;
+   display: inline-block;
+}
+p{
+    background-color: #9EC862;
+    width: 400px;
+    padding: 7px;
+    color: #FFFFFF;
+    text-align: right;
+    padding: 10px;
+    
+}
+ion-icon{
+    font-size: 20px;
+    cursor: pointer;
+}
+textarea{
+    border: 0;
+    width: 400px;
+    height: 400px;
+    box-shadow: 7px 0px 7px 0px rgba(0, 0, 0, 0.133);
+    outline: none;
+   text-align: justify;
+
+    
+
+}
+.hide{
+    display: none;
+}
